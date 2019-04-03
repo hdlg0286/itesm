@@ -1,0 +1,11 @@
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="https://cvc.itesm.mx/cvc/img/bannerAdmin.png" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
